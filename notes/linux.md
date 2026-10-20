@@ -1,8 +1,8 @@
 - `mkdir` - creates a folder 
-- `rmdir` - deletes empty folder 
-- `touch` - creates empty file
-- `chmod` - changes permissons for owner, group and other
+- `rmdir` - deletes an empty folder 
+- `touch` - creates an empty file
+- `chmod` - changes permissions for owner, group and others
 - `cat` - prints the content of a file 
 - `./` - path to the current folder, used to run a file 
-- `cp` - copies file
-- `cp -r` - copies folder with all inside
+- `cp` - copies a file
+- `cp -r` - copies a folder with everything inside
