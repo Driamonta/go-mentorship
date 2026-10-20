@@ -4,3 +4,5 @@
 - `chmod` - changes permissons for owner, group and other
 - `cat` - prints the content of a file 
 - `./` - path to the current folder, used to run a file 
+- `cp` - copies file
+- `cp -r` - copies folder with all inside
