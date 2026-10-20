@@ -1,0 +1,6 @@
+-'mkdir' - creates a folder 
+-'rmdir' - delete empty folder 
+-'touch' - create empty file 
+-'chmod' - give different permissions for different users 
+-'cat' - prints the content of a file 
+-'./' - execute file from the current folder
