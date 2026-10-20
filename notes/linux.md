@@ -1,6 +1,6 @@
--'mkdir' - creates a folder 
--'rmdir' - delete empty folder 
--'touch' - create empty file 
--'chmod' - give different permissions for different users 
--'cat' - prints the content of a file 
--'./' - execute file from the current folder
+- `mkdir` - creates a folder 
+- `rmdir` - deletes empty folder 
+- `touch` - creates empty file
+- `chmod` - changes permissons for owner, group and other
+- `cat` - prints the content of a file 
+- `./` - path to the current folder, used to run a file 
