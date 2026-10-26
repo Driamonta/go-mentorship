@@ -6,3 +6,5 @@
 - `./` - path to the current folder, used to run a file 
 - `cp` - copies a file
 - `cp -r` - copies a folder with everything inside
+- `head` - shows the first 10 lines of a file
+- `head -n 20` - shows the first 20  lines of a file (any number works)
